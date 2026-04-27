@@ -8,8 +8,8 @@
 
 ## Test Results (Via CMD)
 ### /all-students
-![cmd all-student.png](images/cmd%20all-student.png)
+![cmd all-student.png](images/cmd%20all-student.png)  
 ### /all-student-name
-![cmd all-student-name.png](images/cmd%20all-student-name.png)
+![cmd all-student-name.png](images/cmd%20all-student-name.png)  
 ### /highest-gpa
 ![cmd highest-gpa.png](images/cmd%20highest-gpa.png)
